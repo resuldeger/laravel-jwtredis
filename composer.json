@@ -14,7 +14,7 @@
     "type": "library",
     "require": {
         "php": ">=7.2.5",
-        "tymon/jwt-auth": "^1.0.2",
+        "tymondesigns/jwt-auth": "^1.0.2",
         "spatie/laravel-permission": "^4.0",
         "sametsahindogan/response-object-creator": "1.0.2"
     },
